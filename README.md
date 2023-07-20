@@ -1,2 +1,2 @@
-# EMR Zero To Hero
-Repo which holds the materials for the EMR Zero To Hero
+# AWS EMR project
+Project using Spark on AWS using EMR, PigLatin, HiveQL, orchestrated using AWS step functions.
